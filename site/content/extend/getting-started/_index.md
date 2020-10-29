@@ -3,6 +3,8 @@ title: "Getting Started"
 date: "2018-04-19T12:01:23-04:00"
 section: "extend"
 ---
+by ooDec
+---
 
 Mattermost can be extended by building and installing plugins, by embedding Mattermost in another application, or by forking the codebase.
 
